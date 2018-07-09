@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e0671274277ee7141b3a83ae16a49ce9
+timeCreated: 1496230619
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: ca4131365590bde42bc922e96f9b9ed0, type: 3}
+  - _Lighting: {fileID: 2800000, guid: 918c11da1b5e132479069533b81df005, type: 3}
+  - _EdgeLit: {fileID: 8400000, guid: 645fae7ab5b645845b027987257ec473, type: 2}
+  - _AdvFog: {fileID: 8400000, guid: 20eea454658bb52499691343d8c321db, type: 2}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

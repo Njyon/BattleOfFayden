@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Options
+  - MainMenu
+  - Credits
+  - Exit
+  - MenuPanel
+  - Bomb
+  - Enviroment
+  - Health
+  - Energie
+  - SpawnRed
+  - SpawnBlue
+  - Character
+  - HealthLose
+  - MiddleStone
+  - LeftTeam
+  - RightTeam
+  - PointPanel
+  - CharacterPanel
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bomb
+  - CantCollideWithAnything
+  - Camera
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 4256531735
+    locked: 0
